@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Dhairya Jain
+# Hi there 👋, I'm Dhairya Jain  
+✨ Passionate Developer | Full Stack Developer | Android Developer
 
-✨ A passionate and curious developer who loves to **build, learn, and create impactful digital experiences**. I'm a  
-**Full Stack Developer**, **Frontend Enthusiast**, and **Android App Developer** who enjoys turning complex problems into simple, beautiful, and intuitive solutions.
+![Visitor Badge](https://komarev.com/ghpvc/?username=dhairyajainn&style=flat-square&color=blue)
 
-🌟 Whether it's building responsive web apps with modern frameworks or crafting smooth mobile experiences using React Native — I enjoy the journey of development just as much as the result!
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Working on Code"/>
 
 ---
 

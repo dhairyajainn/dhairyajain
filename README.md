@@ -3,7 +3,9 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=dhairyajainn&style=flat-square&color=blue)
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Working on Code"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Working on Code"/>
+</p>
 
 ---
 
